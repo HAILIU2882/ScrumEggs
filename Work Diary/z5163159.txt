@@ -1,0 +1,58 @@
+Dean Hou (z5163159) - Work Diary
+
+--------Week 1---------------------
+Thursday Lab meeting 03/06/2021
+Bad microphone and internet connection so coud not speak in Blackboard meeting. 
+Chose project Task Master project and agreed on team name: Scrumeggs
+Selected task master as Tong Ju and set up jira accounts and joined jira board
+Decided on Microsoft Teams as communication tool
+Next: create user stories, project objectives, backlog for Jira
+
+06/06/2021
+Joined github classroom and started writing in repo
+
+--------Week 2---------------------
+08/06/2021
+Started a draft proposal using google docs
+Created Miro for stoyboards, working on that
+
+Thursday Lab meeting  10/06/2021
+Discussed novelty functions
+Talked about user flow, and shoed progress on story boards, finalised user stories to progress
+agreed on sprint dates
+
+--------Week 3---------------------
+14/06/2021
+Discuss Stoyboards and how they should be, clarifying between task management and project management
+
+Thursday Lab meeting  17/06/2021
+Meeting about technical part of proposal, disagreements on software architecture
+ 
+19/06/2021
+working on finalising proposal, working on adding storyboards, and editting software architecture
+
+--------Week 4---------------------
+23/06/2021
+Meeting for discussing coding sections, divided tasks on who should code what
+coding frontend section with Javascript and reactjs 
+doing research on reactjs and doing tutorials on it
+
+Thursday Lab meeting 24/06/2021
+discussion about continuing tasks, API implmentation, database design
+
+25/06/2021
+Discussion about different ways to conenct frontend and backend
+working on htmls and routing for sign up and profile
+
+--------Week 5---------------------
+
+--------Week 6---------------------
+
+--------Week 7---------------------
+
+--------Week 8---------------------
+
+--------Week 9---------------------
+
+--------Week 10---------------------
+

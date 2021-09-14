@@ -1,0 +1,75 @@
+﻿Structure
+
+
+* What was planned
+* What was finished
+* What were the main blocker and how they were overcome
+* What was not finished, why this happened, how this affects overall project progress
+* what is planned next
+
+
+Git
+
+- status ->add -> status -> commit -m "..." -> push
+###############################
+Week 1
+###############################
+
+Formed the team and organised initial communications before the lab.
+
+
+In the lab meeting we agreed on below 
+1. comm tool to use - Teams.
+2. Decided on team name : scrumeggs
+3. Voted for the scrum master : Tong Ju
+
+
+Access to repo :https://github.com/COMP9900-scrumEggs/ScrumEggs
+repo copied to local
+Next is to create user stories and tasks from assessment. Due on 8th June
+
+
+
+###############################
+Week 2
+###############################
+* What was planned
+    - write a draft background
+
+* What was finished
+    - wrote a background sceleton, more to be added
+    - updated user stories and organised/ grouped them under objectives
+    - (admin)Created meeting minutes to keep track of discussion items and action list.
+
+* What were the main blocker and how they were overcome
+    - need to do more reasearch on pros/cons of exising task management tools
+
+* What was not finished, why this happened, how this affects overall project progress
+    - Not yet
+
+* what is planned next
+    -
+
+###############################
+Week 3
+###############################
+
+Actions done:
+- re-designed finished and updated wireframe
+- finished wireframe part in report
+- submitted report
+
+###############################
+Week 4
+###############################
+
+Actions done(To do):
+- design database for all project
+- added work folders to repo
+- Question for dominic:
+        - proposal feedback
+        - reactjs -> http -> flask -> sqlite
+
+
+func (a,b,c) -> (x,y)
+flask function?

@@ -1,0 +1,159 @@
+Tong Ju(z5036314) - Work Diary
+
+------------- Week 1 ---------------------------------------------------------------------------------
+3rd June 2021
+We had the Kick off meeting, and decided on the team name: ScrumEggs
+I've set up our Jira account for teammates and mentor
+
+6th June 2021
+I've structured the Jira to have epics and tasks and subtasks etc; Created tasks and start the first sprint; Sorted out the backlog for user stories
+
+
+------------- Week 2 ---------------------------------------------------------------------------------
+8th June 2021
+We started a draft proposal on Google docs and agreed on basic functions.
+I started to work on the wireframes with Dean
+
+10th June 2021
+We discussed about novelty functions and agreed on some, Sophie and Asha finished the user diagrams; We reviewed the wireframes.And discussed the key dates for sprints
+
+New tasks being assigned: * Tong, Asha, Sophia - Documenting novelties to the proposal 
+                                 * Tong - Updating the Jira user stories once we have all the content
+                                 * Asha - System architecture
+                                 * Sophia - Adding scenarios to the user flow                              
+Tong, Dean - keep working on the wireframes
+
+
+------------- Week 3 ---------------------------------------------------------------------------------
+14th June 2021
+We had discussions about the programming tools, reviewed the wireframes and discussed about the story boards.
+
+17th June 2021
+We've done sprint planning and discussed about the technical architecture during the meeting
+
+I updated the user stories in Jira & sprints and added Jira related content to the proposal
+
+
+------------- Week 4 ---------------------------------------------------------------------------------
+23th June 2021/Team meeting 
+Team - Discussion about the system architecture and divided the coding works
+Tong - Backend and Database connection
+Dean, Sophia - Frontend: start with the log in page 
+Asha - API end point implementation 
+Hai - Database designs
+
+24th June
+I made a dummy database and coded functions to do the SQL conversion in order to query from the database, as a test
+
+25th June 2021/Team meeting
+Plan has changed as the time for frontend implementation towards the first demo is tight, so we decided for the first demo we use the HTML routing method and will do the react implementation later.
+
+I was assigned with taskboard html page and the API document. 
+
+26th June 2021
+I finished the task board page
+
+27th June 2021
+I've tested profile endpoint implementation
+
+
+------------- Week 5 ---------------------------------------------------------------------------------
+28th June 2021
+I finished the MVP version of our API document.
+
+29th June 2021
+I created the flask function templates in api.py as still waiting on the database.
+
+30th June 2021
+Had our first retrospective meeting and agreed on an improved working process. We separated the tasks in a more structured way and now frontend and backend can parallel working. I started to work on the api implementation
+
+------------- Week 6 ---------------------------------------------------------------------------------
+3rd July 2021
+I finished backend implementation of the search_tasks and the get_backlog_tasks endpoints. Created the connection table with inserted the core columns that I need based on the format that Hai set up before. Communicated with Hai and Hai have updated the database the next day.
+For the search task function, need to discuss further with Sophie.
+
+5th July 2021
+I finished the get_connected_task and get_historical_tasks endpoints, but can't test it as it requires sign in, Sophie will help with the testing from frontend. 
+Now the all three endpoints being required by front-end were being implemented.
+
+7th July 2021
+Team catch up meeting
+I created aggreed tasks in Jira and assign to teammembers.
+
+9th July 2021
+Backend implementation: returning creator column to frontend for task related request. 
+
+10th July 2021
+Team catch up meeting
+I created aggreed task in Jira and assignned to teammembers.
+I Closed sprint2 and started sprint3.
+
+------------- Week 7 ---------------------------------------------------------------------------------
+12th July 2021
+I've finished the ScrumEggs logo design
+I'm supposed to work on the connection endpoints with Hai and he found it's easier to copied and pasted from his implementation for my endpoint. Thanks to him my part had been finished.
+
+13th July 2021
+Team catch up meeting
+I created aggreed tasks in Jira and assignned to teammembers, and added parking lot tasks into Jira.
+
+15th July 2021
+Closed sprint3 and started spirnt4
+
+17th July 2021
+I've finished the search_task backend implementation.
+Team catch up meeting
+I created aggreed tasks in Jira and assignned to teammembers, and added parking lot tasks into Jira.
+
+------------- Week 8 ---------------------------------------------------------------------------------
+19th July 2021
+I've fixed the problem with search by priority not working in search_task endpoint and turn the search input to case insensitive now
+I tested for view/edit profile and log in/out.
+
+20th July 2021
+We had team meeting, agreed on some future changes, allocated the fixing works for demo B. 
+
+21st July 2021
+I fixed the search function.
+
+22nd July 2021
+We had the demo and retrospective meeting.
+I completed sprint4 and started sprint5.
+
+24th July 2021
+I updated the creator search to be more flexible and user-friendly.
+I updated Jira board based on the agreed tasks.
+
+
+------------- Week 9 ---------------------------------------------------------------------------------
+26th July 2021
+We had team meeting, I proposed to give the UI a final polish but we decided to leave it, as the priority is to make the system more robust and testing it thoroughly.
+
+
+28th July 2021
+During the last meeting, we've divided the report and testing works, Dean and Sophie was working on testing on the virtual machine but it not very statble as virtual machine doesn't work for Hai. I and Asha have succesfully testing on the Vlab, so we decided to move the focus to testing on vlab.
+I've finished my part for the report and had progress check-in meeting with the team.
+
+30th July 2021
+More testings on vlab, and worked on backend code cleaning. 
+
+1st Aug 2021
+Had team meeting with the team, improved the report and done more testings.
+
+
+------------- Week 10 ---------------------------------------------------------------------------------
+2nd Aug 2021
+Final touch on the report and final testing on vlab, in the afternoon I submitted our final report and codes.
+
+3rd Aug 2021
+Start to prepare for the final demo.
+
+
+
+
+
+
+
+
+
+
